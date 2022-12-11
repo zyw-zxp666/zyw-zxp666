@@ -11,7 +11,7 @@ English：
 
 - 👀 I like writing programs
 
-- 🌱 I am currently learning trust
+- 🌱 I am currently learning rust
 
 - 📫 How to contact me:
 
@@ -24,7 +24,7 @@ Deutsch：
 
 - 👀 Ich schreibe gerne Programme
 
-- 🌱 Ich lerne gerade Vertrauen
+- 🌱 Ich lerne gerade rust
 
 - 📫 So kontaktieren Sie mich:
 
@@ -37,7 +37,7 @@ Deutsch：
 
  -  👀   У меня есть программа 
 
- -  🌱   Я сейчас учусь 
+ -  🌱   Я сейчас rust
 
  -  📫   как связаться со мной: 
 
